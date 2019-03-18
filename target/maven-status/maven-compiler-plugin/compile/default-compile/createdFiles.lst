@@ -1,0 +1,5 @@
+com\loyer\controller\UserController.class
+com\loyer\service\UserServiceImpl.class
+com\loyer\service\UserService.class
+com\loyer\domain\User.class
+com\loyer\dao\UserDao.class
